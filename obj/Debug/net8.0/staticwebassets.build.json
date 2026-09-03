@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "h0+Xg1ILHCnXiG0/q4VnUIpD7UiWH6IPq+zPjzCibvY=",
+  "Source": "EcomAPIGateway",
+  "BasePath": "_content/EcomAPIGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
