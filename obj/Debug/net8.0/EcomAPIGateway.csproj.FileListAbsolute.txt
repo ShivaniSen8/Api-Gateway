@@ -32,3 +32,12 @@ C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\obj\Debug\net8.0
 C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\obj\Debug\net8.0\EcomAPIGateway.pdb
 C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\obj\Debug\net8.0\EcomAPIGateway.genruntimeconfig.cache
 C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\obj\Debug\net8.0\ref\EcomAPIGateway.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\furtherance\source\repos\EcomAPIGateway\EcomAPIGateway\obj\Debug\net8.0\EcomAPIGateway.sourcelink.json

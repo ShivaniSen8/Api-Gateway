@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EcomAPIGateway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+496c68b987d67e213959b8e8973220408e373632")]
 [assembly: System.Reflection.AssemblyProductAttribute("EcomAPIGateway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EcomAPIGateway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
