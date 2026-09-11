@@ -1,35 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learning\\ApiGateway\\Api-Gateway\\EcomAPIGateway.csproj": {}
+    "/Users/ankit_admin/Desktop/API-Gateway/Api-Gateway/EcomAPIGateway.csproj": {}
   },
   "projects": {
-    "E:\\Learning\\ApiGateway\\Api-Gateway\\EcomAPIGateway.csproj": {
+    "/Users/ankit_admin/Desktop/API-Gateway/Api-Gateway/EcomAPIGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learning\\ApiGateway\\Api-Gateway\\EcomAPIGateway.csproj",
+        "projectUniqueName": "/Users/ankit_admin/Desktop/API-Gateway/Api-Gateway/EcomAPIGateway.csproj",
         "projectName": "EcomAPIGateway",
-        "projectPath": "E:\\Learning\\ApiGateway\\Api-Gateway\\EcomAPIGateway.csproj",
-        "packagesPath": "C:\\Users\\Shivani\\.nuget\\packages\\",
-        "outputPath": "E:\\Learning\\ApiGateway\\Api-Gateway\\obj\\",
+        "projectPath": "/Users/ankit_admin/Desktop/API-Gateway/Api-Gateway/EcomAPIGateway.csproj",
+        "packagesPath": "/Users/ankit_admin/.nuget/packages/",
+        "outputPath": "/Users/ankit_admin/Desktop/API-Gateway/Api-Gateway/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Shivani\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ankit_admin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -44,10 +39,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
@@ -82,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
